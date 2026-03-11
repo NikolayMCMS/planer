@@ -164,13 +164,6 @@
             "avatar": "ADM",
             "role": "admin",
             "pin": "1234"
-        },
-        {
-            "id": 2,
-            "name": "Сотрудник",
-            "avatar": "ST",
-            "role": "user",
-            "pin": ""
         }
     ]
 }
