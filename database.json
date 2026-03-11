@@ -1,0 +1,176 @@
+{
+    "tasks": [
+        {
+            "title": "Доделать админ панель ",
+            "priority": "high",
+            "date": "2026-03-03",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": true,
+            "completed": 1,
+            "createdAt": "2026-02-27T22:45:20.192Z",
+            "id": 6,
+            "order": 1
+        },
+        {
+            "title": "найти дистрибутор для пираток ",
+            "priority": "high",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 0,
+            "createdAt": "2026-02-27T23:26:42.220Z",
+            "id": 7,
+            "order": 5
+        },
+        {
+            "title": "заполнить парсер тт ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 1,
+            "createdAt": "2026-02-27T23:27:42.812Z",
+            "id": 8,
+            "order": 0
+        },
+        {
+            "title": "проанализировать kwork ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 1,
+            "createdAt": "2026-02-27T23:31:23.352Z",
+            "id": 9,
+            "order": 0
+        },
+        {
+            "title": "проанализировать Hh ru и другие биржы труда ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "1) https:\/\/hh.ru\/vacancy\/130791662?hhtmFromLabel=suitable_vacancies_sidebar&hhtmFrom=vacancy  (Junior PHP-программист (Full-Stack)) Equip Group  (от 79 000 до 105 000 ₽ за месяц, на руки)\nhttps:\/\/dreamjob.ru\/employers\/53820?hh_vacancy_id=130791662\n2)",
+            "isImportant": false,
+            "completed": 0,
+            "createdAt": "2026-02-27T23:34:09.026Z",
+            "id": 10,
+            "order": 4
+        },
+        {
+            "title": "запустить соунд на этой неделе или следуйщей",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": true,
+            "completed": 0,
+            "createdAt": "2026-03-02T00:49:20.823Z",
+            "id": 12,
+            "order": 1
+        },
+        {
+            "title": "модерка для SD Проверка по content id и транскрибацию   модерация python на пк и дает на сервер ответ  ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "\n\n--- Объединено ---\nЗаголовок: Найти систему отпечатков для кабинета \n",
+            "result": "Модуль  Технология  Бесплатно?\nТранскрибация  Vosk (offline, модель small-ru ~50МБ, без GPU)  ✅\nПроверка законов РФ  Keyword\/regex по спискам (экстремизм, наркотики и т.д.)  ✅\nДубликаты YouTube  YouTube Data API v3 (10,000 ед.\/день бесплатно)",
+            "isImportant": true,
+            "completed": 0,
+            "createdAt": "2026-03-05T01:47:33.547Z",
+            "id": 13,
+            "order": 0
+        },
+        {
+            "title": "в планер добавить обьеденение задач, и закрытые переносить в отдельную вкладку, порядок задач сделать  ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 1,
+            "createdAt": "2026-03-05T01:58:05.137Z",
+            "id": 14,
+            "order": 6
+        },
+        {
+            "title": "заполнить до конца тт парсер ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 0,
+            "order": 6,
+            "createdAt": "2026-03-05T16:07:14.918Z",
+            "id": 15
+        },
+        {
+            "title": "проанализировать ютуб составить контент план lamer land",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "Самые горячие связки 2026 года для быстрого старта в РФ\n\nCursor \/ Windsurf + реальные русскоязычные проекты\n(самый недооценённый сейчас формат)\nЕжедневные 3–5 минутки AI-новостей\n(если выдержите регулярность — залетает очень сильно)\nAI side project от 0 до первых $$$ за 30–60 дней\n(с цифрами, скринами RevenueCat \/ Telegram Payments \/ ЮKassa)\nТестирование китайских моделей на русском языке\n(DeepSeek, Qwen, GLM-4, Kimi — они часто лучше на ру-языке, чем многие западные)\n“Пишу код с ИИ вслепую” \/ “ИИ против человека”\n(соревнования 1 на 1 — зрелищно и относительно просто снимать)",
+            "isImportant": false,
+            "completed": 0,
+            "order": 3,
+            "createdAt": "2026-03-06T22:45:55.288Z",
+            "id": 17
+        },
+        {
+            "title": "составить оферту соунда и политику кондифициальности ",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": false,
+            "completed": 0,
+            "order": 7,
+            "createdAt": "2026-03-09T23:36:43.949Z",
+            "id": 18
+        },
+        {
+            "title": "Дропнуть систему на гитхаб",
+            "priority": "medium",
+            "date": "",
+            "assigneeId": null,
+            "description": "",
+            "result": "",
+            "isImportant": true,
+            "completed": 0,
+            "order": 2,
+            "createdAt": "2026-03-10T22:39:46.072Z",
+            "id": 19
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Администратор",
+            "avatar": "ADM",
+            "role": "admin",
+            "pin": "1234"
+        },
+        {
+            "id": 2,
+            "name": "Сотрудник",
+            "avatar": "ST",
+            "role": "user",
+            "pin": ""
+        }
+    ]
+}
